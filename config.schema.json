@@ -99,7 +99,7 @@
               "condition": {
                 "functionBody": "try { return model.devices[arrayIndices[0]].active } catch(e){ return false }"
               }
-            },
+            }
           }
         }
       }
